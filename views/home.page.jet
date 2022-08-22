@@ -1,0 +1,10 @@
+{{extends "./layouts/base.jet" }}
+
+{{block browserTitle()}}Welcome home{{end}}
+
+{{block pageContent()}}
+<p>Welcome to our site</p>
+
+{{end}}
+
+{{block js()}} {{end}}
